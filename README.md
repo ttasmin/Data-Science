@@ -1,2 +1,2 @@
 # Data-Science
-This repository contains projects and assignments of various online Data Science courses.
+This repository contains capstone project of IBM Data Science course.
